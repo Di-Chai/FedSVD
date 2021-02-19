@@ -1,0 +1,4 @@
+2021-02-19 14:29:36,945-INFO: Namespace(alpha=1.0, block=1, dataset='load_synthetic', log_dir='precision', mode='svd', num_feature=1000, num_participants=10, num_samples=1000, only_time='False', output_pkl='False')
+2021-02-19 14:29:50,565-INFO: StandaloneSVD time 13.295967817306519
+2021-02-19 14:29:50,565-INFO: StandaloneSVD reconstruct error (MAPE) 5.457821637590643e-15
+2021-02-19 14:29:50,565-INFO: Simulation Start!

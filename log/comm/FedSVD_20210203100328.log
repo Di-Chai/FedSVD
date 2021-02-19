@@ -1,0 +1,12 @@
+2021-02-03 10:03:28,682-INFO: Namespace(alpha=1.0, block=100, dataset='load_synthetic', mode='svd', num_feature=1000, num_participants=2, num_samples=5000)
+2021-02-03 10:03:40,408-INFO: StandaloneSVD time 11.600820541381836
+2021-02-03 10:03:40,408-INFO: StandaloneSVD reconstruct error 1.834256343799594e-27
+2021-02-03 10:03:40,408-INFO: Simulation Start!
+2021-02-03 10:03:41,054-INFO: Generate orthogonal matrix 1000 done. Using 0.04666781425476074 seconds.
+2021-02-03 10:03:41,054-INFO: Generate orthogonal matrix 10000 done. Using 0.1276695728302002 seconds.
+2021-02-03 10:03:42,660-INFO: Apply distortion done. Using 0.8029043674468994 seconds.
+2021-02-03 10:03:54,247-INFO: SVD done. Using 11.587487936019897 seconds.
+2021-02-03 10:04:00,915-INFO: SVD recover done. Using 3.084877848625183 seconds.
+2021-02-03 10:04:01,051-INFO: FedSVD reconstruct error 1.5582483631094705e-16
+2021-02-03 10:04:01,051-INFO: Total comm size 969.0256690979004
+2021-02-03 10:04:01,051-INFO: Finished!
