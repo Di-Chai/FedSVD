@@ -1,0 +1,6 @@
+matplotlib
+numpy
+Pympler
+scikit-learn
+scipy
+sklearn
