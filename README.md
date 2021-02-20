@@ -7,7 +7,7 @@ Firstly, make sure python3 is installed on your machine.
 Then install the required packages by :
 
 ```bash
-pip insatll -r requirements.txt
+pip install -r requirements.txt
 ```
 
 #### Reproduce the trials in the paper
